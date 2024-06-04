@@ -1,4 +1,7 @@
 """
+WARNING: After running OrthologBot.py, please be sure to run the wikidata-orthologs-bot 
+or to open an issue at https://github.com/sib-swiss/wikidata-orthologs-bot for this bot to be executed.
+
 https://bitbucket.org/sulab/wikidatabots/src/4f2e4bdf3d7328eb6fd94cc67af61e194bda0a96/genes/orthologs/human/parseHomologene.py?at=dronetest_DiseaseBot&fileviewer=file-view-default
 
 https://www.wikidata.org/wiki/Q14911732#P684
